@@ -20,6 +20,7 @@
 	--with-http_stub_status_module \
 	--with-http_realip_module \
 	--with-http_realip_module \
+    --with-http_spdy_module \
     --add-module=../nginx-upload-module-master
 
 
