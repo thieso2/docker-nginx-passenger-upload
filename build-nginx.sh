@@ -20,8 +20,7 @@
 	--with-http_stub_status_module \
 	--with-http_realip_module \
 	--with-http_realip_module \
-        --add-module=../nginx-upload-module-master \
-        --add-module=`passenger-config --nginx-addon-dir`
+    --add-module=../nginx-upload-module-master
 
 
 
